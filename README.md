@@ -1,2 +1,2 @@
-# dev_template
-開発環境のテンプレートです。
+# rails_carrierwave
+CarrierWave を使ったファイルアップロード
